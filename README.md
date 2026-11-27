@@ -12,7 +12,7 @@ This project aims to provide a quick overview of Linux server performance throug
 - [ ] Total Memory usage (used and free, in a percentage format)
 - [ ] Total disk usage (used and free, in a percentage format)
 - [ ] Top 5 processes by CPU usage
-- [ ] TOp 5 processes by Memoru usage
+- [ ] Top 5 processes by Memory usage
 
 ## Technologies Used
 
